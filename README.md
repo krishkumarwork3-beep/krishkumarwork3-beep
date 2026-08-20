@@ -22,12 +22,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF206E,100:8338EC&height=3&width=1200" width="100%"/>
 </div>
 
-## 💜 About Me
+## 🚀 About Me
 
 ```yaml
-name: Krish Kumar
-role: Backend & Cloud-Native Engineer
-institution: Thapar Institute of Engineering and Technology (CSE Undergrad)
+Name: Krish Kumar
+Role: Backend & Cloud-Native Engineer
+Institution: Thapar Institute of Engineering and Technology (CSE Undergrad)
 
 core_competencies:
   - Distributed Microservices & Async I/O
