@@ -240,8 +240,4 @@
   <p>
     <a href="#-hi-im-krish-kumar-"><b>⬆ Back to Top</b></a>
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=krishkumarwork3-beep&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
-  </p>
 </div>
