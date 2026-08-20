@@ -29,15 +29,15 @@ Name: Krish Kumar
 Role: Backend & Cloud-Native Engineer
 Institution: Thapar Institute of Engineering and Technology (CSE Undergrad)
 
-core_competencies:
+Core_competencies:
   - Distributed Microservices & Async I/O
   - Kubernetes Operators, Helm & GitOps
   - High-Concurrency WebSockets & Pub/Sub
   - Database Normalization (BCNF) & Atomic Transactions
 
-currently_building: CapstoneConnect — real-time student collaboration platform
-currently_learning: Service Meshes (Istio) & eBPF observability
-fun_fact: "Resolved race conditions across 100+ simulated concurrent requests — and lived to tell the tale"
+Currently_building: CapstoneConnect — real-time student collaboration platform
+Currently_learning: Service Meshes (Istio) & eBPF observability
+Fun_fact: "Resolved race conditions across 100+ simulated concurrent requests — and lived to tell the tale"
 ```
 
 <br>
