@@ -111,20 +111,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=krishkumarwork3-beep&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p>
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark x2">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" title="Pair Extraordinaire">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" title="YOLO">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" title="Quickdraw">
-</p>
-
----
-
-<p align="center">
-  <i>📫 Reach me at <a href="mailto:kkumar2_be24@thapar.edu">kkumar2_be24@thapar.edu</a></i>
-</p>
