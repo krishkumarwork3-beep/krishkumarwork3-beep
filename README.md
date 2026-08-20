@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE undergrad at **Thapar Institute of Engineering and Technology** (CGPA: 9.32/10.0)
+- 🎓 CSE undergrad at **Thapar Institute of Engineering and Technology** 
 - 🛠️ Specializing in **backend development** and **cloud-native systems**
 - ☸️ Experienced deploying microservices on **Kubernetes** with **FastAPI** and **Flask**
 - 🔭 Currently building **CapstoneConnect** — a real-time microservices platform for student teams
