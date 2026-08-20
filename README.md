@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=180&section=header&text=Krish%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud-Native%20Systems%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=180&section=header&text=Krish%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Cloud-Native%20Systems%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+SDE+%7C+FastAPI+%2F+Flask;Kubernetes+%2B+Docker+%2B+Helm;CI%2FCD+%2B+GitOps+Automation;Distributed+Microservices+%26+Redis" alt="Typing SVG" />
@@ -12,7 +12,6 @@
   <a href="https://github.com/krishkumarwork3-beep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://img.shields.io/badge/🎓_CGPA-9.32/10.0-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/☸️_Domain-Cloud_Native_%26_DevOps-0284C7?style=flat-square" />
 <img src="https://img.shields.io/badge/📍_India-0284C7?style=flat-square" />
 
@@ -26,7 +25,6 @@
 name: Krish Kumar
 role: Backend & Cloud-Native Engineer
 institution: Thapar Institute of Engineering and Technology (CSE Undergrad)
-cgpa: 9.32 / 10.0
 
 core_competencies:
   - Distributed Microservices & Async I/O
