@@ -8,14 +8,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/krish-kumar-90a78a33b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kkumar2_be24@thapar.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/krishkumarwork3-beep"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CSE undergrad at **Thapar Institute of Engineering and Technology** 
+- 🎓 CSE undergrad at **Thapar Institute of Engineering and Technology** (CGPA: 9.32/10.0)
 - 🛠️ Specializing in **backend development** and **cloud-native systems**
 - ☸️ Experienced deploying microservices on **Kubernetes** with **FastAPI** and **Flask**
 - 🔭 Currently building **CapstoneConnect** — a real-time microservices platform for student teams
