@@ -188,7 +188,7 @@ BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 
 <img height="165" src="https://github-readme-stats-krish-1a5e.vercel.app/api?username=krishkumarwork3-beep&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF206E&icon_color=00F5FF&text_color=ffffff" />
 <img height="165" src="https://github-readme-stats-krish-1a5e.vercel.app/api/top-langs/?username=krishkumarwork3-beep&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF206E&text_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com/?user=krishkumarwork3-beep&theme=radical&hide_border=true&background=0D1117&ring=FF206E&fire=FFD23F&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com/?user=krishkumarwork3-beep&theme=radical&hide_border=true&background=0D1117&ring=FF206E&fire=FFD23F&currStreakLabel=00F5FF&cache_bust=1" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumarwork3-beep&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF206E&point=FFD23F" width="95%"/>
 </div>
