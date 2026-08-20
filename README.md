@@ -164,16 +164,13 @@ BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 
 
 <br>
 
-<details>
-<summary><b>💡 Architecture Principles (click to expand)</b></summary>
-<br>
+### 💡 Architecture Principles
 
 - 🛡️ **Defensive & Idempotent Design** — every state-changing endpoint tolerates partial failure and concurrency
 - ☸️ **Declarative Infrastructure & GitOps** — manifests, Helm charts, and ArgoCD pipelines for repeatable deploys
 - ⚡ **Database Efficiency First** — normalized schemas, stored procedures for atomic ops, Redis caching
 - 📊 **Telemetry & Observability** — Prometheus + Grafana before incidents reach users
 
-</details>
 
 <br>
 
