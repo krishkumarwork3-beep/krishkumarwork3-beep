@@ -155,6 +155,26 @@ BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 
 </td>
 <td width="50%" valign="top">
 
+**✈️ Rolls-Royce Turbofan RUL Prediction** – *Predictive Maintenance*
+
+Predicts Remaining Useful Life of turbofan engines on NASA's C-MAPSS dataset using a **Bidirectional LSTM with self-attention** and Monte Carlo Dropout for uncertainty-aware predictions, deployed as an interactive Gradio dashboard.
+
+`Python` · `TensorFlow` · `LSTM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📦 Supply Chain Risk Intelligence** – *ML Classification*
+
+Multi-class model predicting e-commerce delivery outcomes (late, on-time, advance, canceled) using SMOTE-balanced data and comparing **XGBoost, Random Forest, KNN, and Logistic Regression** with SHAP explainability, deployed via Gradio.
+
+`Python` · `XGBoost` · `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
 <br>
 
 *More projects on [GitHub →](https://github.com/krishkumarwork3-beep)*
