@@ -159,7 +159,7 @@ BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 
 
 Predicts Remaining Useful Life of turbofan engines on NASA's C-MAPSS dataset using a **Bidirectional LSTM with self-attention** and Monte Carlo Dropout for uncertainty-aware predictions, deployed as an interactive Gradio dashboard.
 
-`Python` · `TensorFlow` · `LSTM`
+`Python` · `TensorFlow` · `LSTM` · `Feature Engineering & Selection` · `Model Evaluation` · `Gradio`
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Predicts Remaining Useful Life of turbofan engines on NASA's C-MAPSS dataset usi
 
 Multi-class model predicting e-commerce delivery outcomes (late, on-time, advance, canceled) using SMOTE-balanced data and comparing **XGBoost, Random Forest, KNN, and Logistic Regression** with SHAP explainability, deployed via Gradio.
 
-`Python` · `XGBoost` · `Pandas`
+`Python` · `XGBoost` · `Pandas` · `NumPy` · `Scikit-Learn` · `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
