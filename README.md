@@ -36,9 +36,9 @@ Core_competencies:
   - High-Concurrency WebSockets & Pub/Sub
   - Database Normalization (BCNF) & Atomic Transactions
 
-Currently_building: CapstoneConnect — real-time student collaboration platform
+Currently_building: CapstoneConnect – real-time student collaboration platform
 Currently_learning: Service Meshes (Istio) & eBPF observability
-Fun_fact: "Resolved race conditions across 100+ simulated concurrent requests — and lived to tell the tale"
+Fun_fact: "Resolved race conditions across 100+ simulated concurrent requests – and lived to tell the tale"
 ```
 
 <br>
@@ -106,7 +106,7 @@ Fun_fact: "Resolved race conditions across 100+ simulated concurrent requests �
 ### 🔗 CapstoneConnect
 **Real-Time Student Team Discovery Platform**
 
-Architected a **6-service microservices backend** on Kubernetes with real-time bi-directional chat via **Redis Pub/Sub** and **WebSockets** — engineered for stability under **500+ concurrent connections**.
+Architected a **6-service microservices backend** on Kubernetes with real-time bi-directional chat via **Redis Pub/Sub** and **WebSockets** – engineered for stability under **500+ concurrent connections**.
 
 `FastAPI` · `Kubernetes` · `Redis` · `PostgreSQL` · `WebSockets`
 
@@ -126,7 +126,7 @@ Architected a **6-service microservices backend** on Kubernetes with real-time b
 <tr>
 <td width="50%" valign="top">
 
-**☁️ Nimbus** — *K8s Self-Service Deployment Engine*
+**☁️ Nimbus** – *K8s Self-Service Deployment Engine*
 
 Self-service PaaS letting developers ship apps without raw K8s YAML. Custom **Kopf Operator** in Python managing 3 CRDs, with **Kaniko** for rootless in-cluster image builds.
 
@@ -135,7 +135,7 @@ Self-service PaaS letting developers ship apps without raw K8s YAML. Custom **Ko
 </td>
 <td width="50%" valign="top">
 
-**🔒 Secure Share** — *Encrypted File Sharing*
+**🔒 Secure Share** – *Encrypted File Sharing*
 
 Async, low-latency binary file distribution with a **Rust** backend and TypeScript client. Chunked transfer encoding and strict payload verification.
 
@@ -146,7 +146,7 @@ Async, low-latency binary file distribution with a **Rust** backend and TypeScri
 <tr>
 <td width="50%" valign="top">
 
-**🏥 Hospital Management System** — *Healthcare Portal*
+**🏥 Hospital Management System** – *Healthcare Portal*
 
 BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 triggers** guaranteeing atomic appointment scheduling. Flask + SQLAlchemy service layer.
 
@@ -167,10 +167,10 @@ BCNF-normalized 8-table MySQL schema with **7 stored procedures, 3 functions, 6 
 
 ### 💡 Architecture Principles
 
-- 🛡️ **Defensive & Idempotent Design** — every state-changing endpoint tolerates partial failure and concurrency
-- ☸️ **Declarative Infrastructure & GitOps** — manifests, Helm charts, and ArgoCD pipelines for repeatable deploys
-- ⚡ **Database Efficiency First** — normalized schemas, stored procedures for atomic ops, Redis caching
-- 📊 **Telemetry & Observability** — Prometheus + Grafana before incidents reach users
+- 🛡️ **Defensive & Idempotent Design** – every state-changing endpoint tolerates partial failure and concurrency
+- ☸️ **Declarative Infrastructure & GitOps** – manifests, Helm charts, and ArgoCD pipelines for repeatable deploys
+- ⚡ **Database Efficiency First** – normalized schemas, stored procedures for atomic ops, Redis caching
+- 📊 **Telemetry & Observability** – Prometheus + Grafana before incidents reach users
 
 
 <br>
